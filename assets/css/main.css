@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* create for makeup recycle program */
+.content-paragraph{
+	margin-top: 0;
+	margin-bottom: 8px;
+} 
+
 /* Basic */
 
 	@-ms-viewport {
@@ -4687,3 +4693,6 @@ input, select, textarea {
 		}
 
 	}
+
+
+	
